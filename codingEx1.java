@@ -1,3 +1,5 @@
+//Coding Exercise 1: Positive, Negative or Zero
+
 public class PositiveNegativeZero {
     public static void checkNumber(int number){
         if(number>0){
